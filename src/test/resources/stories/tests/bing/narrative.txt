@@ -1,0 +1,4 @@
+Narrative:
+In order to search in bing
+As a user i should be able to search for a term
+I want to be able to search for a term and be able to see what i'm looking for

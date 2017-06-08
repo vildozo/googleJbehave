@@ -1,0 +1,4 @@
+Narrative:
+In order to search a class in EDX.ORG
+As a user 
+I want to be able to Search
